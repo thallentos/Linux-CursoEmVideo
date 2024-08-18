@@ -1,0 +1,6 @@
+LEIA-ME
+
+Escrever sobre a interrogação no terminal '?'
+
+O que o código significa:
+- a interrogação serve para mostrar a quantidade de caracteres que devem ser mostrados, ou seja, se eu colocar '?as*' signfica que deve ter 1 caracter no lugar da interrogação e que, após isso, deve ter as letras 'as' e, depois delas, pode ter qualquer coisa justamente por causa do asterísco "*"!

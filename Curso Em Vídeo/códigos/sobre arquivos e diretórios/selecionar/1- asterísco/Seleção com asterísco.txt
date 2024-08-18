@@ -1,0 +1,5 @@
+"x" é um exemplo, mas usar o asterísco para olhar uma pasta segue o mesmo esquema de SQL quando se usa o "%" para pesquisar coisas que comecem, terminem ou contenham algo.
+
+Por isso, preste atenção em que parte se colocar o asterísco
+
+Pode ser que não haja um arquivo que comece, termine ou contenha o que se está procurando, mas, caso haja um diretório com essa especificação, então a seleção será feita com a pasta!!

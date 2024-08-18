@@ -1,0 +1,3 @@
+tab:
+- 1x: seleciona o que há dentro de um diretório
+- 2x: mostra as opções disponíveis

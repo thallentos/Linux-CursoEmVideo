@@ -1,0 +1,6 @@
+cat
+
+Esse comando serve para ver o que tem dentro de algum arquivo.
+
+Exemplo: eu criei um arquivo chamado texto.txt
+Se eu usar "cat /texto.txt" ele vai entrar no arquivo e mostrar o que tem dentro dele

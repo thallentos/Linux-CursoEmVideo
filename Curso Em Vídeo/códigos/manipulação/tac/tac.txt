@@ -1,0 +1,5 @@
+tac
+
+Se você perceber "tac" é "cat" ao contrário justamente, porque ele mostra o que há dentro do arquivo, porém ao contrário, assim como eu mostrei no exemplo do lado, porque eu coloquei "linha 1 e 2" para mostrar que o "tac" mostra o arquivo de trás para frente.
+
+O Guanabara disse que isso serve para quando há uma lista de convidados

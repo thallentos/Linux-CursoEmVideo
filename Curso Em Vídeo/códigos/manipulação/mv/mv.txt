@@ -1,0 +1,14 @@
+mv
+
+Serve para mover o arquivo
+
+No código ao lado eu:
+1- dei um "cd" no diretório Comidas
+2- criei vários diretórios ao mesmo tempo com nome de comidas
+3- criei um arquivo chamado Com_Molho_Branco
+4- dei um "ls" para ver se ele realmente estava lá
+5- usei "mv" para mover o arquivo Com_Molho_Branco para dentro da pasta Macarrão
+6- dei um "cd" na pasta Macarrão
+7- dei um "ls" para ver se o arquivo Com_Molho_Branco estava lá
+
+Em resumo, é bem de boa

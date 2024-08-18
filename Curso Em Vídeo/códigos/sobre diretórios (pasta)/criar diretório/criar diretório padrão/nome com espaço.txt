@@ -1,0 +1,7 @@
+há duas formas dar nome a um diretório que tenha espaço:
+- usar a contrabarra (\)
+- colocar entre ""
+
+Isso faz referência ao arquivo "-p"
+
+Na imagem "espaço", mostra que se eu usar o "mkdir" e ir colocando nomes com espaços, na verdade, eu estarei criando vários diretórios. NÂO CONFUNDA!!

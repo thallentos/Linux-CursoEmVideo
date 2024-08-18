@@ -1,0 +1,6 @@
+less
+
+
+Esse comando serve para paginar um arquivo:
+1- teclas das setinhas para cima e para baixo servem para ir nessas direções pelo arquivo
+2- para sair do modo less tecle "q"

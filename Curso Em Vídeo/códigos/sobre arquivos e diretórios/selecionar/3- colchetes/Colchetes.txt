@@ -1,0 +1,3 @@
+Colchetes:
+
+no exemplo da foto de "variação do alfabeto" signfica que dentro da pasta "/etc/p", após esse "p", o próximo caracter pode variar entre as letras do alfabeto de "A até o D", contando com o "D"; e após esse segundo caracter pode ter qualquer coisa, porque temos o asterísco "*" depois dos colchetes

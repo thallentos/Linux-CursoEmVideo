@@ -1,0 +1,13 @@
+cp (copiar)
+
+o nome já diz tudo, mas algo que se tem que saber é a forma como ele funciona é:
+
+
+"cp (de onde vem o arquivo) (para onde vai)"
+
+Assim como o exemplo da imagem ao lado:
+
+"cp Aula_Linux Curso_Linux/"
+
+Resumindo, o arquivo "Aula_Linux" existe dentro da pasta "Curso_Linux" quanto na "Desktop"
+

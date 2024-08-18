@@ -1,0 +1,6 @@
+Renomear
+
+Usa-se o "mv" para renomear o arquivo
+da mesma maneira que foi feito com "cp"
+
+"mv (onde está o arquivo) (para onde vai)"

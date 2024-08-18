@@ -1,0 +1,9 @@
+Chaves:
+
+As chaves servem para buscar padrões nos diretórios. No exemplo ao lado foi buscado o padrão "{am, ul}", ou seja, " 'am' ou 'ul' ".
+
+Não confunda as chaves com os colchetes, porque os colchetes englobam todos os arquivos, mas as chaves são para diretórios.
+
+As chaves também servem para mostrar os arquivos dentro desses diretórios que têm esses padrões
+
+Observação: as chaves só selecionam o nome do diretório em si, mas não as extensões, exemplo: "conf, db"

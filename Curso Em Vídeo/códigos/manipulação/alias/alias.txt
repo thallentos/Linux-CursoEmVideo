@@ -1,0 +1,10 @@
+alias
+
+são apelidos para comandos, ou seja, pré-definições de comandos que ficará ativo até que a janela do terminal seja fechada
+
+Exemplo do lado:
+1ª marcação (conta de cima para baixo): essa pré-definição do 'alias' significa que quando você exclui mais de 3 arquivos simultâneamente o terminal vai perguntar se você tem certeza
+
+2ª marcação: digitei 'alias' para mostrar todas as pré-definições do 'alias'
+
+3ª: após isso, foi mostrado que a pré-definição foi salva
